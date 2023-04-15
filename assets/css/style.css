@@ -3,6 +3,8 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: #211e21;
+    background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
 }
 #heading{
     text-align: center;
